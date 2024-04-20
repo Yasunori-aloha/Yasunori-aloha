@@ -8,8 +8,8 @@
 
 # My Best Languages, Frameworks, and Tools
 
-<img src="https://skillicons.dev/icons?i=typescript,js,react,next,tailwind,html,css,mysql,github,vscode,docker" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,typescript,php,react,next,laravel,mysql,github,vscode,docker,postman" /> <br /><br />
 
 # Programming Languages, Frameworks and Tools
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,vue,next,mysql,prisma,github,vscode,figma,docker" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,jquery,typescript,php,ruby,react,next,vue,laravel,rails,mysql,prisma,github,vscode,docker,postman,aws,figma" /> <br /><br />
